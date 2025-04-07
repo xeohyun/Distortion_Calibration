@@ -1,8 +1,4 @@
-# Distortion_Calibration
-A camera calibration tool based on OpenCV that estimates the camera's intrinsic parameters and lens distortion coefficients from a chessboard-pattern video, and visually compares the original and distortion-corrected images.
-
-# 🎯 Camera_Calibration
-
+# 🎯 Distortion_Calibration
 **Camera_Calibration** is an OpenCV-based tool for estimating a camera’s intrinsic parameters and lens distortion coefficients using a video containing a chessboard pattern. It also allows visual comparison between the original and distortion-corrected images.
 
 ---
